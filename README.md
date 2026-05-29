@@ -25,13 +25,14 @@
 
   ╔═══════════════════════════════════════════════════════════════╗
   ║                                                               ║
-  ║   👤  Name      :  Adam Moujtahid                            ║
-  ║   🎓  Degree    :  Engineering — Cybersecurity Track         ║
-  ║   🎯  Goal      :  Cybersecurity Engineer                    ║
-  ║   📍  Location  :  Morocco 🇲🇦                               ║
-  ║   🔗  LinkedIn  :  adam-moujtahid-0416b019a                  ║
-  ║   📸  Instagram :  @adam_moujtahidd                          ║
-  ║   🔥  Status    :  [ STUDYING ] [ BUILDING ] [ HACKING ]     ║
+  ║   👤  Name      :  Adam Moujtahid                             ║
+  ║   🎓  Degree    :  Engineering — Cybersecurity Track          ║
+  ║   🎯  Goal      :  Cybersecurity Engineer                     ║
+  ║   🏫  School    :  Emsi                                       ║
+  ║   📍  Location  :  Morocco 🇲🇦                                 ║
+  ║   🔗  LinkedIn  :  adam-moujtahid-0416b019a                   ║
+  ║   📸  Instagram :  @adam_moujtahidd                           ║
+  ║   🔥  Status    :  [ STUDYING ] [ BUILDING ] [ HACKING ]      ║
   ║                                                               ║
   ╚═══════════════════════════════════════════════════════════════╝
 ```
